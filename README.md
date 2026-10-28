@@ -42,7 +42,7 @@ Business Insight
 The results show differences in revenue, profit, and profit margins across the three products. Before making expansion decisions, the business should also consider customer demand, production costs, available resources, production time, and market prices.
 
 Conclusion
-
+https://github.com/Assuredgate/Fish-farm-business-analysis/blob/main/Screenshot%202026-10-28%20080458.png
 This project demonstrates the use of spreadsheet formulas, business metrics, charts, and data interpretation to support business decision-making.
 
 ,Add fish farm analysis screenshot
